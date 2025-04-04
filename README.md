@@ -1,4 +1,3 @@
-Here’s a simple and informative `README.md` for your **Digital Clock** project:
 
 ---
 
@@ -52,5 +51,3 @@ You can easily modify:
 This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you'd like a fancier design, to add a screenshot, or if you're planning to publish it on GitHub!
