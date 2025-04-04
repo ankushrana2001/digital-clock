@@ -8,7 +8,7 @@ This is a simple **Digital Clock** GUI application built using Python and the `T
 
 ## 📸 Preview
 
-![Digital Clock Screenshot](#) ![image](https://github.com/user-attachments/assets/6cfbe41b-8fcd-453a-9d8e-60666167db18)
+![Digital Clock Screenshot] ![image](https://github.com/user-attachments/assets/6cfbe41b-8fcd-453a-9d8e-60666167db18)
 
 
 ## 🛠️ Features
