@@ -48,7 +48,7 @@ You can easily modify:
 
 ## 🎓 Learning Source
 This project was created by learning and following the tutorial from YouTube:
-🔗 Watch the tutorial here: [Digital Clock in Python - Tkinter | CodeWithAarohi](https://youtu.be/kDkN3WPESoY?si=CEaTpSIaRK1vTJSg)
+🔗 Watch the tutorial here: [Digital Clock in Python - Tkinter | Code With Sagar](https://youtu.be/kDkN3WPESoY?si=CEaTpSIaRK1vTJSg)
 
 I followed along with the tutorial, copied the code, and experimented with it to understand Tkinter better.
 
