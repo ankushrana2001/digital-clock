@@ -46,8 +46,10 @@ You can easily modify:
 - Background color: Modify `background='gold'`
 - Text color: Modify `foreground='black'`
 
-## 📄 License
+## 🎓 Learning Source
+This project was created by learning and following the tutorial from YouTube:
+🔗 Digital Clock in Python - Tkinter | CodeWithAarohi (https://youtu.be/kDkN3WPESoY?si=P6OJ5PWgpadKaIUI)
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+I followed along with the tutorial, copied the code, and experimented with it to understand Tkinter better.
 
 ---
